@@ -1,0 +1,39 @@
+Remark line goes here
+MASS
+ca 12.010        0.360
+oh 16.000        0.465
+ha 1.008         0.135
+ho 1.008         0.135
+
+BOND
+ca-ca  378.60   1.398
+ca-ha  395.70   1.086
+ca-oh  365.60   1.364
+ho-oh  563.50   0.973
+
+ANGLE
+ca-ca-ca   68.800     120.020
+ca-ca-ha   48.700     119.880
+ca-ca-oh   87.200     119.900
+ca-oh-ho   50.700     108.580
+
+DIHE
+ca-ca-ca-ca   4   14.500       180.000           2.000
+ca-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-ca-oh   4   14.500       180.000           2.000
+ha-ca-ca-ha   4   14.500       180.000           2.000
+ha-ca-ca-oh   4   14.500       180.000           2.000
+ca-ca-oh-ho   1    0.835       180.000           2.000
+
+IMPROPER
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-ca-oh         1.1          180.0         2.0          Using the default value
+
+NONBON
+  ca          1.8606  0.0988
+  oh          1.8200  0.0930
+  ha          1.4735  0.0161
+  ho          0.3019  0.0047
+
+
+
