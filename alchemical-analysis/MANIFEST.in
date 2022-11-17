@@ -1,3 +1,0 @@
-include DESCRIPTION.rst
-include README.md
-recursive-include samples *

@@ -1,3 +1,0 @@
-[console_scripts]
-alchemical_analysis = alchemical_analysis.alchemical_analysis:main
-
